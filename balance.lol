@@ -13,7 +13,7 @@ FOUND YR balance
 IF U SAY SO
 
 IM IN YR LOOP UPPIN YR var TIL BOTH SAEM var AN DIFF OF totalyears AN 1
-	balance R I IZ CALCULATE YR balance AN YR rate MKAY
+  balance R I IZ CALCULATE YR balance AN YR rate MKAY
 IM OUTTA YR LOOP
 
 VISIBLE SMOOSH "Account balance after " AN totalyears AN " years is: € " AN balance MKAY
