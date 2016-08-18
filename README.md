@@ -1,6 +1,8 @@
 # lol-world
 Attempt to examine [LOLCODE](http://lolcode.org/).
 
+Documentation at: [https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md](https://github.com/justinmeza/lolcode-spec/blob/master/v1.2/lolcode-spec-v1.2.md)
+
 ## Install
 ```
 $ git clone https://github.com/justinmeza/lci.git
